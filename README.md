@@ -1,1 +1,1 @@
-# Indicadores_Profit_Chhart
+Todos esses indicadores estão com o código disponíveis no software Profit Pro
